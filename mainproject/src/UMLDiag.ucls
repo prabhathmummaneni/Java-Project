@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="mainproject.Driver" project="mainproject" 
+    file="/mainproject/src/mainproject/Driver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="114" x="108" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="mainproject.NoOfDays" project="mainproject" 
+    file="/mainproject/src/mainproject/NoOfDays.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="142" x="262" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="mainproject.AdminLogin" project="mainproject" 
+    file="/mainproject/src/mainproject/AdminLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="181" x="444" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="mainproject.AddingFaculty" project="mainproject" 
+    file="/mainproject/src/mainproject/AddingFaculty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="203" width="136" x="665" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="mainproject.Studentpage" project="mainproject" 
+    file="/mainproject/src/mainproject/Studentpage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="106" x="841" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="mainproject.absenteee" project="mainproject" 
+    file="/mainproject/src/mainproject/absenteee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="142" x="987" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="mainproject.AdminPage" project="mainproject" 
+    file="/mainproject/src/mainproject/AdminPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="98" x="1169" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="mainproject.FacultyLogin" project="mainproject" 
+    file="/mainproject/src/mainproject/FacultyLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="181" x="1307" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="mainproject.StudentLoginPage" project="mainproject" 
+    file="/mainproject/src/mainproject/StudentLoginPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="181" x="1528" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="mainproject.StudentPage" project="mainproject" 
+    file="/mainproject/src/mainproject/StudentPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="114" x="1749" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="mainproject.AddingStudent" project="mainproject" 
+    file="/mainproject/src/mainproject/AddingStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="203" width="136" x="1903" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="mainproject.Openingpage" project="mainproject" 
+    file="/mainproject/src/mainproject/Openingpage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="99" x="2079" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="mainproject.Facultypage" project="mainproject" 
+    file="/mainproject/src/mainproject/Facultypage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="142" x="2218" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
